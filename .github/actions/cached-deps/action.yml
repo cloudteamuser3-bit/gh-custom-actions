@@ -3,7 +3,7 @@ description: 'Get dependencies'
 inputs:
   caching:
     description: 'To add or not to add that is the question'
-    requred: false
+    required: false
     default: 'true'
 runs:
   using: 'composite'
